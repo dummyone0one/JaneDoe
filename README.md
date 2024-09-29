@@ -1,4 +1,4 @@
-<center><img src="https://github.com/dummyone0one/JaneDoe/blob/main/app.jpg?raw=true" width="480" ><br></center>
+<center><img src="https://github.com/dummyone0one/JaneDoe/blob/main/app.jpg?raw=true" ><br></center>
                                                                                                          
                                                                                                          
 # Jane Doe
